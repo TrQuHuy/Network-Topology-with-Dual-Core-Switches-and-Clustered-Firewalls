@@ -56,7 +56,7 @@ Dự án này chi tiết việc cấu hình và thiết lập cơ sở hạ tầ
 - **Core_sw1 và Core_sw2**: Kết nối dự phòng với cả hai firewall và với nhau.
 - **sw3 và sw4**: Kết nối với các VPC trong các VLAN khác nhau để phân đoạn mạng cách ly.
 
-## Cải Tiến Tương Lai
+## Cải Tiến Trong Tương Lai
 
 - Triển khai các chính sách và quy trình bảo mật chuyên dụng.
 - Tích hợp các công cụ giám sát như Zabbix hoặc Prometheus.
